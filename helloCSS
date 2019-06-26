@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*
+    css样式的基本机构
+
+*/
+
+/*
+intput.styled {
+    border: 2px solid #000;
+    background-color: #aaa;
+    font: bold 18px Verdana;
+    padding: 4px;
+}
+*/
