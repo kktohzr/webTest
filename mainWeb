@@ -1,0 +1,30 @@
+<!doctype html><!-- 此为定义html或者html5的文档s格式 -->
+<html>
+<!-- html体 -->
+<head>
+<!-- 数据头，写给浏览器编译使用，对用户屏蔽 -->
+<title>标题</title>
+<!-- 显示网页标题 -->
+<meta charset="utf-8">
+</head>
+<body>
+<!-- 展示展示网站内容 -->
+<h1> 文章标题：
+  <h1到h7>
+</h1>
+<p> *********段落***********</p>
+<ol type="A"> <!-- 带编号列表-->
+    <li>1li</li>
+    <li>2li</li>
+    <li>3li</li>
+</ol>
+<ul type="circle"><!-- 无序列表 -->
+    <li>1li</li>
+    <li>2li</li>
+    <li>3li</li>
+</ul>
+
+<l>Go to <a href="baseHtml.html">baseHtml</a></l>
+<p id = "part4">part 4</p>
+</body>
+</html>
