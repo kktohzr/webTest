@@ -1,0 +1,48 @@
+<!doctype html><!-- 此为定义html或者html5的文档s格式 -->
+<html>
+<!-- html体 -->
+<head>
+<!-- 数据头，写给浏览器编译使用，对用户屏蔽 -->
+<title>标题</title>
+<!-- 显示网页标题 -->
+<meta charset="utf-8">
+
+<link rel ="stylesheet" href="helloCSS.css" type ="text/css">
+
+</head>
+<body>
+<!-- 展示展示网站内容 -->
+<h1 id = "hh1"> 文章标题： </h1>
+<p> *********段落*********** </p>
+<ol type="A">
+  <!-- 带编号列表-->
+  <li>1li</li>
+  <li>2li</li>
+  <li>3li</li>
+</ol>
+<ul type="circle">
+  <!-- 无序列表 -->
+  <li>1li</li>
+  <li>2li</li>
+  <li>3li</li>
+</ul>
+<l>Go to <a href="baseHtml.html">baseHtml</a></l>
+<!-- 链接基本使用s -->
+<p></p>
+<l>Go to <a href ="baseHtml.html#part4">part4</a></l>
+<!-- 链接到网页的part4部分 -->
+<p></p>
+<l>Go to <a href ="#hh1">文章标题</a></l>
+<hr/>
+<!-- 水平分割线 -->
+<pre>
+    预定格式文本
+预定格式文本
+       预定格式文本</pre>
+<l>换行换行换行换行换行<br>
+  换行换行换行</l>
+  <address>地址地址地址地址地址地址地址</address>
+
+  
+</body>
+</html>
